@@ -2,10 +2,8 @@
 #include <math.h>
 #include <stdlib.h>
 #include <string.h>
-#include <unistd.h>
 #include <time.h>
 #include <sys/time.h>
-#include <pthread.h>
 
 #define SIZE_READ      100
 
